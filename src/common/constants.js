@@ -1,0 +1,82 @@
+module.exports = {
+  TOPCITIES: [
+    "Mumbai",
+    "Delhi",
+    "Kolkata",
+    "Bangalore",
+    "Chennai",
+    "Pune",
+    "Hyderabad",
+    "Ahmedabad",
+    "Jaipur",
+    "Chandigarh",
+    "Coimbatore"
+  ],
+  MAINREMOTELIST: [
+    "Mumbai",
+    "Delhi",
+    "Kolkata",
+    "Bangalore",
+    "Chennai",
+    "Pune",
+    "Hyderabad",
+    "Ahmedabad",
+    "Remote"
+  ],
+  TOPCITYPLUSZONE: [
+    "Mumbai",
+    "Delhi",
+    "Kolkata",
+    "Bangalore",
+    "Chennai",
+    "Pune",
+    "Hyderabad",
+    "Ahmedabad",
+    "Jaipur",
+    "Chandigarh",
+    "Coimbatore",
+    "Mumbai Remote",
+    "Delhi Remote",
+    "Kolkata Remote",
+    "Bangalore Remote",
+    "Chennai Remote",
+    "Pune Remote",
+    "Hyderabad Remote",
+    "Ahmedabad Remote",
+    "Jaipur Remote",
+    "Chandigarh Remote",
+    "Coimbatore Remote"
+  ],
+  TEAMLIST: {
+    bounce: "Bounce",
+    corporates: "Corporates",
+    hotdata: "Hot Data",
+    online: "Online",
+    retention: "Retention",
+    revivalexp: "Revival Expiry",
+    super: "Super",
+    supercat: "Supercat"
+  },
+  CITY_TYPE_OBJ: {
+    tier2: "tier2_cities",
+    tier3: "tier3_cities",
+    zone_mum: "mumrmt_cities",
+    zone_del: "delrmt_cities",
+    zone_kol: "kolrmt_cities",
+    zone_blr: "blrrmt_cities",
+    zone_chn: "chnrmt_cities",
+    zone_pun: "punrmt_cities",
+    zone_hyd: "hydrmt_cities",
+    zone_ahm: "ahmrmt_cities",
+    zone_cbe: "cbermt_cities",
+    zone_jpr: "jprrmt_cities",
+    zone_chg: "chgrmt_cities"
+  },
+  DECIMAL_PRICE: [
+    "prempkg_twoyr_per",
+    "prempkg_disc_per",
+    "pkgvfl_existing_ecs_per",
+    "pkgvfl_existing_nonecs_per",
+    "flxcat_twoyr_per"
+  ]
+};
